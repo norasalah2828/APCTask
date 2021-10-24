@@ -16,7 +16,7 @@ for more info about the API please visit [Weatherstack](https://weatherstack.com
  3. Paste the URL which copied and set the path which you want to add your cloned project.
  4. Wait until all dependencies are finishing the setup.
  5. In the project panel click on "APCTask" folder, Then open the path "src/test/java/runner/TestRunner".
- 6. Run "AcceptanceTests" class.
+ 6. Run "TestRunner" class.
 
 ***Steps to generate HTML Report:***
 
